@@ -1,5 +1,5 @@
 
-# Case Study 2: Using Reported Fault Symptoms to Predict Safety Related Faults.
+# Using Reported Fault Symptoms to Predict Safety Related Faults.
 
 ## Motivation for this study
 Usually, when a defect is reported during train servicing, the defect symptoms will be reported and the technician will follow up on the troubleshooting. Fault group classification is provided only when troubleshooting has completed. An experienced planner will prioritise the defect accordingly, based on the symptoms, if it is a safety related delay. However, this process can be automated using machine learning algorithms, such as the Navies Baynes or the Logistic Regression which are a popular ML model for sentiment analysis, to predict if the fault is safety related. This will reduce manual labeling of the fault type. 
