@@ -1,9 +1,10 @@
-# Darius-Lim-Hong-Yi
-Case Study: Using Reported Fault Symptoms  to Predict Safety Related Faults.
 
-Motivation for this study
+#Case Study 2: Using Reported Fault Symptoms  to Predict Safety Related Faults.
+
+## Motivation for this study
 Currently, fault group classification is provided only when troubleshooting has completed. However, service fault symptoms provides an indication if fault is safety related which allows planner to improve work prioritisation. 
 
+## Data 
 Data showcase in this case study are gathered from singapore train operator (SMRT) reported faults between 2010-Jan to 2020-Dec. Sensitive information has been replaced with a dummy information.
 
 There are 5 columns
@@ -13,6 +14,9 @@ There are 5 columns
  3. Service_Number - reported fault service ID. If there is no service number. The reported fault found during non-service hours. 
  4. Service_Fault_Symptoms - reported fault symptoms text
  5. Fault_Group - Classification of fault. Will be using this to seperate between safety and non-safety faults.
+
+
+## Analysis Step
 
 Steps involved in this study include
 
