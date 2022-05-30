@@ -1,5 +1,5 @@
 
-#Case Study 2: Using Reported Fault Symptoms  to Predict Safety Related Faults.
+# Case Study 2: Using Reported Fault Symptoms  to Predict Safety Related Faults.
 
 ## Motivation for this study
 Currently, fault group classification is provided only when troubleshooting has completed. However, service fault symptoms provides an indication if fault is safety related which allows planner to improve work prioritisation. 
