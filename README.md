@@ -5,7 +5,7 @@
 Currently, fault group classification is provided only when troubleshooting has completed. However, service fault symptoms provides an indication if fault is safety related which allows planner to improve work prioritisation. 
 
 ## Data 
-Data showcase in this case study are gathered from singapore train operator (SMRT) reported faults between 2010-Jan to 2020-Dec. Sensitive information has been replaced with a dummy information.
+Data showcase in this case study are gathered from a train operator based in a highly populated and warm area. Reported faults are between 2010-Jan to 2020-Dec. Sensitive information has been replaced with a dummy information.
 
 There are 5 columns
 
